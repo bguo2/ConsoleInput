@@ -19,6 +19,7 @@ public class Program {
         float test2 = in.nextFloat();
         in.nextLine(); //eat the last cartridge return
 
+        System.out.println();
         System.out.println(test1);
         System.out.println(test2);
         System.out.println(test4);
